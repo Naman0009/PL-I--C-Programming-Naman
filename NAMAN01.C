@@ -1,4 +1,8 @@
-Program-1 
+Program-1 - Write a program to make use
+            of basic Input/Output functions 
+Solution(1)-Predefined values 
+
+
 #include <stdio.h>
 
 int main() 
