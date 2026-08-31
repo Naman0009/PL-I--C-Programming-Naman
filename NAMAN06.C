@@ -1,4 +1,5 @@
-// Online C compiler to run C program online
+Program-6
+
 #include <stdio.h>
 
 int main() 
