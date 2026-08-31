@@ -1,4 +1,6 @@
-Program-3
+Program-3-Write a program to calculate area 
+          of a circle
+Solution(1)-Predefined values
 
 #include <stdio.h>
 
