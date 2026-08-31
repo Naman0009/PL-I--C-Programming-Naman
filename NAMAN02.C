@@ -1,4 +1,7 @@
-Program-2
+Program-2-Write a program to make use of basic
+          Input/Output functions using differnt 
+         types
+Solution(2)- User deifine values*/ 
 
 #include <stdio.h>
 
