@@ -1,4 +1,5 @@
-Program-5
+Program-5-Write a program to calculate the average
+solution(1)- Predefine values
 
 #include <stdio.h>
 
