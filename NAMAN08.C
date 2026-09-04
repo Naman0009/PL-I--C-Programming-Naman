@@ -1,4 +1,6 @@
-Program-8
+Program-8 - Write a program to swap two numbers
+             using a tenporary variables
+Solution(2)- User define values 
 
 #include <stdio.h>
 
