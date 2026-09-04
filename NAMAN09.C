@@ -1,4 +1,6 @@
-Program-9
+Program-9 - Write a C program to demonstrate
+             the use of single-line and multi-
+            line comments 
 
 #include <stdio.h>
 
