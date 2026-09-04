@@ -1,6 +1,9 @@
-Program-6
+Program-6 - Write a program to calculate the 
+            average pf three numbers 
+Solution(2)-User Define Values 
+*/
 
-#include <stdio.h>
+#include<stdio.h>
 
 int main() 
 {
