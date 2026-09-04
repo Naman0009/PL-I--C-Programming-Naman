@@ -1,4 +1,7 @@
-Program-7 
+Program-7 - Write a C program to swap two 
+             numbers using temporary variable
+Solution(1)-User Define values
+*/
 
 #include <stdio.h>
 
