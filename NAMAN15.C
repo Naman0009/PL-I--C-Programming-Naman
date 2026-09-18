@@ -3,7 +3,7 @@ Program (15) -> Write a program to generate
                  number using while loop, do while loop 
                  and for loop.
 
-Solution (2): Using do - while loop */
+Solution (2): Using do - while loop 
 
 #include <stdio.h>
 
