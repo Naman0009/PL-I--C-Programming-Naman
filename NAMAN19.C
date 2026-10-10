@@ -10,14 +10,12 @@ int main()
 {
     int arr[5], i, sum = 0;
 
-    // Input array elements
     for(i = 0; i < 5; i++)
     {
         printf("Enter element at index %d: ", i);
         scanf("%d", &arr[i]);
     }
 
-    // Calculate sum
     for(i = 0; i < 5; i++)
     {
         sum = sum + arr[i];
