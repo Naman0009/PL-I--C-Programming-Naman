@@ -9,7 +9,6 @@ int main()
 {
     int arr[5], i = 0, sum = 0;
 
-    // Accept array elements
     while (i < 5)
     {
         printf("Enter element at index %d: ", i);
@@ -17,7 +16,6 @@ int main()
         i++;
     }
 
-    // Calculate sum
     i = 0;
     while (i < 5)
     {
